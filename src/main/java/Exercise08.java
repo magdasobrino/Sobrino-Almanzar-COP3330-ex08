@@ -28,7 +28,7 @@ public class Exercise08 {
             System.out.println("Each person gets " + slicesPerPerson + " pieces of pizza.");
             System.out.println("There are " + leftovers +" leftover pieces.");
 
-            scnr.close();
+          
             System.exit(0);
         }//end of main
     }//end of program
